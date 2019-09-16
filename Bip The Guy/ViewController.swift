@@ -4,7 +4,7 @@
 //
 //  Created by Richard Jove on 9/15/19.
 //  Copyright © 2019 Richard Jove. All rights reserved.
-//
+// Richard Jové
 
 import UIKit
 import AVFoundation
